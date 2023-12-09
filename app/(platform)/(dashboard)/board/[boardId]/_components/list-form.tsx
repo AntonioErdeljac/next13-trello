@@ -89,6 +89,7 @@ export const ListForm = () => {
               Add list
             </FormSubmit>
             <Button 
+              type='button'
               onClick={disableEditing}
               size="sm"
               variant="ghost"
